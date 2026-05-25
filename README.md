@@ -35,3 +35,7 @@ O:
     Analizar el desempeño del proyecto a lo largo de los 7 años de duración mediante el cálculo de SPI y CPI y visualizaciones
     Visualizaciones con Tableau del análisis
     Generar insights sobre las conclusiones del análisis
+
+Link a Tableau Public:
+
+[https://public.tableau.com/views/DashboardLsst/Overview?:language=es-ES&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
